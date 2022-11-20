@@ -1,6 +1,5 @@
 package de.hglabor.kits.impl;
 
-
 import de.hglabor.kitapi.kit.AbstractKit;
 import org.bukkit.Location;
 import org.bukkit.Material;

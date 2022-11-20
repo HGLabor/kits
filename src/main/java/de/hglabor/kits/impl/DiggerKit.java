@@ -1,6 +1,5 @@
 package de.hglabor.kits.impl;
 
-
 import de.hglabor.kitapi.kit.AbstractKit;
 import de.hglabor.kitapi.kit.event.BlockSetToAirEvent;
 import de.hglabor.kitapi.kit.item.KitItemBuilder;
@@ -10,7 +9,6 @@ import org.bukkit.block.Block;
 import org.bukkit.block.Container;
 import org.bukkit.craftbukkit.v1_19_R1.block.CraftBlock;
 import org.bukkit.inventory.ItemStack;
-
 import java.util.List;
 
 public class DiggerKit extends AbstractKit {

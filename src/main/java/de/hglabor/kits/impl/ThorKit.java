@@ -4,7 +4,6 @@ import de.hglabor.kitapi.kit.AbstractKit;
 import de.hglabor.kitapi.kit.item.KitItemBuilder;
 import org.bukkit.Material;
 import org.bukkit.inventory.ItemStack;
-
 import java.util.List;
 
 public class ThorKit extends AbstractKit {

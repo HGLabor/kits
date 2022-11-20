@@ -1,6 +1,5 @@
 package de.hglabor.kits.impl;
 
-
 import de.hglabor.kitapi.kit.AbstractKit;
 import de.hglabor.kitapi.kit.item.KitItemBuilder;
 import de.hglabor.kitapi.kit.player.IKitPlayer;
@@ -11,7 +10,6 @@ import org.bukkit.Material;
 import org.bukkit.block.Block;
 import org.bukkit.block.BlockFace;
 import org.bukkit.inventory.ItemStack;
-
 import java.util.List;
 import java.util.concurrent.atomic.AtomicInteger;
 

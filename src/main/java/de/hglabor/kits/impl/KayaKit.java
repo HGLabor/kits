@@ -1,6 +1,5 @@
 package de.hglabor.kits.impl;
 
-
 import de.hglabor.kitapi.KitApi;
 import de.hglabor.kitapi.kit.AbstractKit;
 import de.hglabor.kitapi.kit.event.BlockChangedTypeEvent;
@@ -20,7 +19,6 @@ import org.bukkit.event.player.PlayerMoveEvent;
 import org.bukkit.inventory.ItemStack;
 import org.bukkit.inventory.ShapelessRecipe;
 import org.bukkit.metadata.FixedMetadataValue;
-
 import java.util.List;
 
 public class KayaKit extends AbstractKit {

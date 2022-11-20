@@ -1,6 +1,5 @@
 package de.hglabor.kits.impl;
 
-
 import de.hglabor.kitapi.kit.AbstractKit;
 import de.hglabor.kitapi.kit.item.KitItemBuilder;
 import de.hglabor.kitapi.kit.player.IKitPlayer;

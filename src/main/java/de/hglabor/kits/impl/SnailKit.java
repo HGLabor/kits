@@ -1,6 +1,5 @@
 package de.hglabor.kits.impl;
 
-
 import de.hglabor.kitapi.kit.AbstractKit;
 import de.hglabor.kitapi.kit.util.ChanceUtils;
 import org.bukkit.entity.LivingEntity;
